@@ -1,0 +1,9 @@
+The timesheet entry module always incorrectly promts for valid enter time as soon as you click to fill it, it should first allow to fill and once you have moved to a next field then validate whether it is correct or not. Similarly the end time, just after filling the start time as anyone moves to fill end time it prompts to enter valid end time. And many times the pop up comes again and again, not allowing you to fill the time sheet. both the issue is due to bad coding/design of the module. it becomes so frustrating at times when a 2 minutes task takes 10 minutes. and this is not just for me this is for all TCS employees who fills the time sheet. Please can this be fixed.
+
+
+
+
+Mulk
+PM Narendra Modi
+judgemenal hai kya
+
